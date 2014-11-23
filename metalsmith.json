@@ -2,6 +2,10 @@
   "source": "source",
   "destination": "public",
   "plugins": {
+    "metalsmith-collections": {
+      "components": "components/**.md",
+      "conventions": "conventions/**.md"
+    },
     "metalsmith-ignore": [
       "templates/**"
     ],
@@ -9,11 +13,15 @@
     "metalsmith-metadata": {
       "buttons": "data/buttons.json"
     },
+    "metalsmith-permalinks": true,
     "metalsmith-templates": {
       "directory": "source/templates",
       "engine": "handlebars",
       "partials": {
-        "button": "partials/components/button"
+        "components/button": "partials/components/button",
+        "layout/foot": "partials/layout/foot",
+        "layout/head": "partials/layout/head",
+        "layout/nav": "partials/layout/nav"
       }
     }
   }

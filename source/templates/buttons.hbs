@@ -1,11 +1,6 @@
-<doctype html>
-<html>
-  <head>
-    <title>{{title}}</title>
-  </head>
-  <body>
-    {{{contents}}}
-
-    {{> button buttons.default}}
-  </body>
-</html>
+{{> layout/head}}
+{{{contents}}}
+{{#each buttons}}
+  {{> components/button this}}
+{{/each}}
+{{> layout/foot}}
