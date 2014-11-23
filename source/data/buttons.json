@@ -1,0 +1,6 @@
+{
+  "default": {
+    "content": "Default Button",
+    "modifiers": ["default"]
+  }
+}

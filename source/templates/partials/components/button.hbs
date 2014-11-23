@@ -1,0 +1,8 @@
+{{!--
+  Button template
+
+  @param modifiers Style modifiers, like "secondary" or "small"
+  @param disabled Whether or not the button is disabled
+  @param content The button content
+--}}
+<button class="button {{#each modifiers}}button-{{this}}{{/each}}" {{#if disabled}}disabled{{/if}}>{{{content}}}</button>

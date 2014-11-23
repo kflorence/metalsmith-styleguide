@@ -1,0 +1,11 @@
+# JavaScript
+
+Lebowski ipsum dO YOU SEE WHAT HAPPENS, LARRY? Dolor sit amet, consectetur adipiscing elit praesent ac magna justo pellentesque ac lectus. Your "revolution" is over, Mr. Lebowski! Condolences! The bums lost! Quis elit blandit fringilla. Sure you'll see some tank battles. But fighting in desert is very different from fighting in canopy jungle. A ut turpis praesent. This Chinaman who peed on my rug, I can't go give him a bill so what the fuck are you talking about? Felis ligula, malesuada suscipit malesuada non, ultrices non urna sed orci ipsum, placerat id.
+
+You're going to enter a world of pain, son. We know that this is your homework. We know you stole a car. Condimentum rutrum, rhoncus ac lorem aliquam placerat posuere. Vee could do things you only dreamed of, Lebowski. Neque, at dignissim magna ullamcorper in aliquam. This Chinaman is not the issue! Sagittis massa ac tortor ultrices faucibus curabitur. Tomorrow vee come back und cut off your chonson. Eu mi sapien, ut ultricies ipsum morbi eget.
+
+His girlfriend gafe up her toe! She sought we'd be getting million dollars! Iss not fair! Risus nulla nullam vel nisi enim, vel. Hey! This is a private residence, man! Auctor ante morbi id urna vel felis lacinia placerat vestibulum turpis nulla, viverra nec. The man is a sex offender. With a record. Spent six months in Chino for exposing himself to an eight-year-old. Volutpat ac, ornare id lectus.
+
+Mr. Lebowski is in seclusion in the West Wing. Cras pharetra faucibus tristique nullam non accumsan justo nulla facilisi integer interdum elementum. They did not receive the money, you nitwit! They did not receive the goddamn money. HER LIFE WAS IN YOUR HANDS! Nulla, nec eleifend nisl euismod ac maecenas vitae eros velit, eu suscipit erat. And yet his son is a fucking dunce. Integer purus lacus, pretium vel venenatis eu, volutpat non erat donec.
+
+And so, Theodore Donald Karabotsos, in accordance with what we think your dying wishes might well have been, we commit your mortal remains to the bosom of the Pacific Ocean, which you loved so well. A metus ac eros dictum aliquet nulla consectetur egestas placerat maecenas pulvinar nisl. I mean his wife goes out and owes money and they pee on my rug. Et nisl rhoncus at volutpat.

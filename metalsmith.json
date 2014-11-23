@@ -1,0 +1,20 @@
+{
+  "source": "source",
+  "destination": "public",
+  "plugins": {
+    "metalsmith-ignore": [
+      "templates/**"
+    ],
+    "metalsmith-markdown": true,
+    "metalsmith-metadata": {
+      "buttons": "data/buttons.json"
+    },
+    "metalsmith-templates": {
+      "directory": "source/templates",
+      "engine": "handlebars",
+      "partials": {
+        "button": "partials/components/button"
+      }
+    }
+  }
+}

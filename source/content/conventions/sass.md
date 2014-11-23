@@ -1,0 +1,11 @@
+# Sass
+
+I spent most of my time occupying various, um, administration buildings, smoking thai-stick, breaking into the ROTC and bowling. Dolor sit amet, consectetur adipiscing elit praesent ac magna. Shut the fuck up, Donny. Justo pellentesque ac lectus quis elit blandit fringilla a ut. Hey, relax man, I'm a brother shamus. Turpis praesent felis ligula, malesuada suscipit malesuada non, ultrices. I don't like you sucking around bothering our citizens, Lebowski. Non urna sed orci.
+
+That's fuckin' combat. The man in the black pyjamas, Dude. Worthy fuckin' adversary. Ipsum, placerat id condimentum rutrum, rhoncus ac lorem aliquam. Any further harm visited upon Bunny, shall be visited tenfold upon your head. Placerat posuere neque, at dignissim magna ullamcorper. They were Nazis, Dude? In aliquam sagittis massa ac tortor ultrices. Huh? Oh. Yeah. Tape deck. Couple of Creedence tapes. And there was a, uh… my briefcase. Faucibus curabitur eu mi.
+
+A MILLION BUCKS FROM FUCKING NEEDY LITTLE URBAN ACHIEVERS! YOU ARE SCUM, MAN! Sapien, ut ultricies ipsum morbi eget risus nulla nullam vel nisi enim, vel. No, look. I do mind. The Dude minds. This will not stand, you know, this aggression will not stand, man. Auctor ante morbi id urna vel felis lacinia placerat vestibulum. I'll suck your cock for a thousand bucks. Turpis nulla, viverra nec volutpat.
+
+Hey! This is a private residence, man! Ac, ornare id lectus cras pharetra faucibus tristique. Thankie… Just one thing, Dude. D'ya have to use s'many cuss words? Nullam non accumsan justo nulla facilisi integer interdum elementum nulla, nec eleifend nisl euismod. Not a bunch of fig-eaters with towels on their heads tryin' to find reverse on a Soviet tank. Ac maecenas vitae eros velit, eu suscipit erat integer.
+
+What do you mean "brought it bowling"? I didn't rent it shoes. I'm not buying it a fucking beer. He's not gonna take your fucking turn, Dude. Purus lacus, pretium vel venenatis eu, volutpat non erat donec a. She's not my special lady, she's my fucking lady friend. I'm just helping her conceive, man! Metus ac eros dictum aliquet nulla consectetur. Who's got a fucking million fucking dollars parked in the trunk of our car out here? Egestas placerat maecenas pulvinar.

@@ -1,0 +1,7 @@
+# Files
+*.sublime-*
+
+# Folders
+bower_components/
+node_modules/
+public/
